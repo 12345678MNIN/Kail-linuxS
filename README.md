@@ -1,2 +1,3 @@
 # Kail-linuxS
 termux
+$
